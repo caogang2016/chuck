@@ -1,0 +1,11 @@
+1. /bin/bash   usermod -s shell 用户
+2. PWD USER PS1 PS2 SHELL HISTSIZE  HOSTNAME
+3. &>    > /dev/null
+4
+5.https://github.com/redhatedu/course
+nsd1805n_pm@tedu.cn
+
+公网ip地址：123.161.210.150
+
+libpthread
+PM2017tarena
